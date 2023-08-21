@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.17)  31 JUL 2023 12:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.17)  21 AUG 2023 16:59
 entering extended mode
-**abraao_cv_short_new.tex
-(abraao_cv_short_new.tex
+**abraao_cv_revised_1_page.tex
+(abraao_cv_revised_1_page.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -51,7 +51,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 ("C:\Program Files\MiKTeX 2.9\tex\latex\was\gensymb.sty"
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-(abraao_cv_short_new.aux)
+(abraao_cv_revised_1_page.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
@@ -118,86 +118,40 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 39--56
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--58
+Underfull \hbox (badness 10000) in paragraph at lines 39--56
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--58
+Underfull \hbox (badness 10000) in paragraph at lines 39--56
 
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.73 	\section*{Projects}_
-                          
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing { inserted.
-<to be read again> 
-                   \par 
-l.74 
-     
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.74 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.74 
-     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
-
- []
-
-[2] (abraao_cv_short_new.aux) ) 
+(abraao_cv_revised_1_page.aux) ) 
 Here is how much of TeX's memory you used:
- 602 strings out of 493698
- 7429 string characters out of 3144392
- 65918 words of memory out of 3000000
- 3990 multiletter control sequences out of 15000+200000
- 4899 words of font info for 18 fonts, out of 3000000 for 9000
+ 606 strings out of 493698
+ 7532 string characters out of 3144392
+ 64918 words of memory out of 3000000
+ 3993 multiletter control sequences out of 15000+200000
+ 5863 words of font info for 21 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 23i,8n,33p,537b,123s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on abraao_cv_short_new.pdf (2 pages, 78562 bytes).
+ 23i,8n,33p,519b,124s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+xti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on abraao_cv_revised_1_page.pdf (1 page, 88313 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
